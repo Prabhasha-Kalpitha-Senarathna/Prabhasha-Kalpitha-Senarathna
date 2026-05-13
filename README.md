@@ -77,7 +77,7 @@ Undergraduate | Software Developer | Accounting Information Systems (AIS)
 
 <p align="left">
 
-<a href="www.linkedin.com/in/prabhasha-senarathna-9aa21b350K">
+<a href="https://www.linkedin.com/in/prabhasha-senarathna-9aa21b350/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
