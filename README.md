@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prabhasha</h1>
+<h1 align="center">Hi 👋, I'm Prabhasha Kalpitha Senarathna</h1>
 
 <h3 align="center">
-Undergraduate | Software Developer | AIS Student
+Undergraduate | Software Developer | Accounting Information Systems (AIS)
 </h3>
 
 ---
@@ -55,9 +55,9 @@ Undergraduate | Software Developer | AIS Student
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prabhasha-Kalpitha-Senarathna&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhasha-Kalpitha-Senarathna&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -67,7 +67,7 @@ Undergraduate | Software Developer | AIS Student
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Prabhasha-Kalpitha-Senarathna&theme=tokyonight"/>
 
 </p>
 
@@ -77,11 +77,11 @@ Undergraduate | Software Developer | AIS Student
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/prabhasha-senarathna-9aa21b350K">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prabhashakalpitha@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -96,5 +96,5 @@ Undergraduate | Software Developer | AIS Student
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a>
+⭐ From <a href="https://github.com/Prabhasha-Kalpitha-Senarathna">Prabhasha-Kalpitha-Senarathna</a>
 </p>
